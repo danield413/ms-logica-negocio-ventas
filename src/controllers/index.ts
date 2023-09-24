@@ -7,3 +7,4 @@ export * from './venta-producto.controller';
 export * from './cliente.controller';
 export * from './producto.controller';
 export * from './venta.controller';
+export * from './administrador-de-archivos.controller';
